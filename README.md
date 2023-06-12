@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Kratin Assignment 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Working Prototype is created to help the 65 year old Lady . The Various Information which will help her for better & Healthy Life is Provided through this React Application. 
 
 ## Available Scripts
 
