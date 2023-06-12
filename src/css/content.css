@@ -1,0 +1,34 @@
+.contdiv
+{
+    justify-content: center;
+    text-align: center;
+    color: rgb(4, 66, 4);
+   
+}
+h3,h4
+{
+    justify-content: center;
+    text-align: center;
+    color: green;
+
+}
+h2{
+    color: blue;
+    text-align: center;
+    position: relative;
+    padding-top: 10px;
+}
+.uldiv
+{
+    margin: auto;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+    width: 800px;
+    justify-content: center;
+    text-align: left;
+}
+ul,li{
+    text-align: left;
+    color: blueviolet;
+}
